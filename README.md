@@ -1,7 +1,8 @@
-# PCAP-Parser
+# 2017.04 PCAP-Parser
 Practice project I've made for fun on April-2017
+My goal was to understand how Wireshark parse PCAP files.
 That is a POC of parsing a binary PCAP file to readable text, 
-I did not manage to cover all protocols, but definitely got the idea :)
+I did not manage to cover all protocols, but definitely you got the idea :)
 
 I've researched RFC documents for the parsing.
 
